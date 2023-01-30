@@ -20,3 +20,4 @@ export const appState = new Proxy(new AppState(), {
     return true
   }
 })
+
